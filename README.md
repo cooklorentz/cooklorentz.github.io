@@ -4,4 +4,4 @@
 
 ### Salés 
 
-* [tarte chevre courgette tomate](sale/tarte-chevre-courgette-tomate.html)
+* [Tarte chèvre courgette tomate](sale/tarte-chevre-courgette-tomate.html)
