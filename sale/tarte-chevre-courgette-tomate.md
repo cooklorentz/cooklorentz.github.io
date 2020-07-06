@@ -37,4 +37,4 @@
 * Durée : 30 Minutes
 
 
- **Bon appétit ! **
+ **Bon appétit !**
