@@ -1,4 +1,4 @@
-# Poulet Teriyaki, aubergines et champignons (Cookeo)
+#  Poulet Teriyaki, aubergines et champignons (Cookeo)
 
 ## Quantité
 
