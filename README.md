@@ -14,6 +14,7 @@
 
 ### Sucrées
 
+* [Cookies](sucree/cookies.html)
 * [Gâteau pommes / kiwis](sucree/gateau_pommes_kiwis.html)
 * [Le gâteau de Gusteau (Chocolat et crème de marron)](sucree/gateau_gusteau.html)
 * [Moelleux amande noisette](sucree/moelleux_amande_noisette.html)
