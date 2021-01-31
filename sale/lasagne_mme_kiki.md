@@ -35,5 +35,3 @@
 
 * T°: 180°C (chaleur tournante)
 * Durée : 45 minutes
-
-1. Au four pour environ 45 minutes
