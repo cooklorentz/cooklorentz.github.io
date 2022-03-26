@@ -1,43 +1,31 @@
-# Pad Thaï au poulet (Cookeo)
+# Pad Thai au Poulet
 
-## Quantité 
+## Quantité
 
 * :raising_hand_man::raising_hand_man::raising_hand_man::raising_hand_man:
 
 ## Ingrédients
 
-* 250g de nouilles de riz
-* 3 c. à s. de sauce nuoc-mâm
-* 3 c. à s. de sauce soja
-* 3 c. à s. de sucre roux en poudre
-* Le jus de 2 citrons verts
-* 300g de filets de poulet émincés
-* 1 carotte
-* Huile de sésame
-* 3 oignons nouveaux
-* 3 gousses d'ail hachées
-* 100g de pousses de soja
-* 3 oeufs
-* Piment en poudre
-* 2 c. à s. de sauce cacahuètes
-* Quelques brins de coriandre
+* 1 sachet de nouilles de riz 250gr 
+* 2 escalopes de poulet coupées en fine lamelles
+* 100 gr de crevettes déjà cuites et décortiquées 
+* 25 gr de cacahuètes concassées 
+* 100 gr de petits pois mange-tout
+* 1 gros oignon vert 
+* 1 CaS de gingembre 
+* 3 brins de coriandre de coriandre ciselés 
+* 3 CaS de sauce soja salée 
+*  3 CaS de sauce soja sucrée 
+* (Option) 3 CaS de sauce Nuoc Mam
+* 2 CaS d’huile 
 
-## Etape (Cookeo)
+## Etapes
 
-* Faire tremper les nouilles dans de l'eau chaude pour les ramollir. 
-* Dans un bol, mélanger la sauce nuoc-mâm, la sauce soja, le sucre et le jus de 1 citron vert. Puis réserver
-* Emincer le poulet en fines lamelles, puis peler et tailler la carotte en fins bâtonnets
-* En mode `Dorer`, faire revenir pendant 5 minutes le poulet avec l'huile de sésame. Réserver
-* Ajouter les oignons émincés, avec leur tige ainsi que les gousses d'ail
-* Faire revenir pendant 3 minutes
-* Ajouter les bâtonnets de caroete, les pousses de soja et le poulet
-* Mélanger quelques minutes
-* Ajouter les nouilles avec un peu de leur eau de repos et verser la sauce et remuer.
-* Ajouter les oeufs. Mélanger pendant quelques minutes pour les brouiller
-* Passer en mode `Sous pression` pendant 3 minutes
-* Parsemer le pad thaï de piment, de cacahuète concassées et de coriandre ciselée, puis arroser avec le jus de citron restant.
-
-## Source 
-
-* La bible officielle du cookeo: 200 recettes incontournables pour cuisiner au quotidien (Ed. 2018)
-
+1. Dans un bol mélanger la sauce soja salée et sucrée 
+1. Emincer l’oignon et une partie de la tige, peler et hacher finement le gingembre 
+1. Faites chauffer l’huile dans un wok, y verser le gingembre et l’oignon puis mélanger 
+1. Ajouter le poulet, remuer pendant 3 minutes
+1. Faire cuire les nouilles de riz, 8 minutes et rincer à l’eau froide. 
+1. Ajouter les nouilles dans le wok, puis les pois mange-tout, et les crevettes 
+1. Verser le bol de sauce, mélanger et laisser cuire 2 à 3 minutes 
+1. Saupoudrer de coriandre et de cacahuètes

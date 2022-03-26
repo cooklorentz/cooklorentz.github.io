@@ -8,10 +8,14 @@
 * [Tarte tomate aubergines lardons (ou tarte feignasse)](sale/tarte-tomate-aubergine-lardon.html)
 * [Croziflette](sale/croziflette.html)
 * [Pela à la raclette (ou autre formage)](sale/pela_raclette.html)
-* [[COOKEO] - Pad thaï au poulet](sale/pad_thai_poulet.html)
+* [Pad thaï au poulet](sale/pad_thai_poulet.html)
+* [Gratin de raviole Saint-Jean, Sauce forestière](sale/gratin_raviole_forestiere.html)
+* [[COOKEO] - Pad thaï au poulet](sale/pad_thai_poulet_cookeo.html)
 * [[COOKEO] - Poulet teriyaki, aubergines et champignons](sale/poulet_teriyaki.html)
 * [[COOKEO] - Cuisses de poulet pommes de terre](sale/cuisse_poulet_pomme_terre.html)
+* [[COOKEO] - Rôti de porc caraméliser aux épices et miel](sale/roti_porc_epice_miel.html)
 * [Les Lasagnes de Mme Kiki](sale/lasagne_mme_kiki.html)
+* [Couronne de brioches salées](sale/couronne_brioche_salees.html)
 
 ### Sucrées
 
