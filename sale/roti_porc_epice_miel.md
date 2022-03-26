@@ -1,4 +1,4 @@
-# Rôti de porc caraméliser aux épices et miel (Cookeo)
+# Rôti de porc caramélisé aux épices et miel (Cookeo)
 
 ## Quantité
 
