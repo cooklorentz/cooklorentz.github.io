@@ -19,10 +19,10 @@
 
 ### Sucrées
 
-* [Brioche au citron](sucree/brioche_citron.html)
+* [Brioche au citron (Empreinte sucrée)](sucree/brioche_citron.html)
 * [Cookies](sucree/cookies.html)
 * [Cookies (Empreinte Sucrée)](sucree/cookie_v2.html)
 * [Gâteau pommes / kiwis](sucree/gateau_pommes_kiwis.html)
 * [Le gâteau de Gusteau (Chocolat et crème de marron)](sucree/gateau_gusteau.html)
 * [Moelleux amande noisette](sucree/moelleux_amande_noisette.html)
-* [Moelleux au chocolat (Empreinte sucrée)](sucree/moelleux_chocolat.html)
+* [Moelleux au chocolat](sucree/moelleux_chocolat.html)
