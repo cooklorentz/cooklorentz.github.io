@@ -16,6 +16,7 @@
 * [[COOKEO] - Rôti de porc caramélisé aux épices et miel](sale/roti_porc_epice_miel.html)
 * [Les Lasagnes de Mme Kiki](sale/lasagne_mme_kiki.html)
 * [Couronne de brioches salées](sale/couronne_brioche_salees.html)
+* [Aubergine a la Parmigiana](sale/aubergine_parmigiana_lygnac.html)
 
 ### Sucrées
 
