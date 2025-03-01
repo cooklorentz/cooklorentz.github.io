@@ -64,6 +64,6 @@
 
 ### Italie
 
-:italy: 
+:it: 
 
 * [Veritable pâtes carbonara](sale/italie_pates_carbo.html)
