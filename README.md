@@ -17,11 +17,6 @@
 * [Les Lasagnes de Mme Kiki](sale/lasagne_mme_kiki.html)
 * [Couronne de brioches salées](sale/couronne_brioche_salees.html)
 * [Aubergine a la Parmigiana](sale/aubergine_parmigiana_lygnac.html)
-* [:norway: Oignons Marinés](sale/norvege_oignons_marines.html)
-* [:norway: Salade scandinave](sale/norvege_salade_scandinave.html)
-* [:norway: Renskavsgryta, «tranches de renne gelé»](sale/norvege_renne_gele.html)
-* [:norway: Soupe de cabillaud ](sale/norvege_soupe_cabillaud.html)
-* [:norway: Fiskekake «Gâteaux de poisson simples»](sale/norvege_gateau_poisson.html)
 
 ### Sucrées
 
@@ -32,3 +27,15 @@
 * [Le gâteau de Gusteau (Chocolat et crème de marron)](sucree/gateau_gusteau.html)
 * [Moelleux amande noisette](sucree/moelleux_amande_noisette.html)
 * [Moelleux au chocolat](sucree/moelleux_chocolat.html)
+
+## Recette de voyages
+
+### Laponie 
+
+:norway: :sweden: :finland: 
+
+* [Oignons Marinés](sale/norvege_oignons_marines.html)
+* [Salade scandinave](sale/norvege_salade_scandinave.html)
+* [Renskavsgryta, «tranches de renne gelé»](sale/norvege_renne_gele.html)
+* [Soupe de cabillaud ](sale/norvege_soupe_cabillaud.html)
+* [Fiskekake «Gâteaux de poisson simples»](sale/norvege_gateau_poisson.html)
